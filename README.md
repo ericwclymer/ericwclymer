@@ -1,6 +1,6 @@
 ### Hey, I'm Eric Clymer.
 
-#### I work at [Hudl](https://github.com/hudl) as a Senior Software Engineering Mamager.
+#### I work at [Hudl](https://github.com/hudl) as a Senior Software Engineering Manager.
 
 [LinkedIn](https://www.linkedin.com/in/ericwclymer/)
 
